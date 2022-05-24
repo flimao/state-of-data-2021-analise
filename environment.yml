@@ -1,0 +1,21 @@
+name: sod2021
+channels:
+  - microsoft
+  - conda-forge
+  - defaults
+dependencies:
+  - seaborn
+  - plotly
+  - python
+  - cookiecutter
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - ipykernel
+  - python-dotenv
+  - click
+  - sphinx
+  - pip:
+    - awscli
+prefix: C:\ProgramData\Anaconda3\envs\sod2021
